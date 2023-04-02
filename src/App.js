@@ -4,7 +4,6 @@ import Home from "./pages/todoHome";
 function App() {
   return (
     <ErrorBoundary>
-      
       <Home />
     </ErrorBoundary>
   );
